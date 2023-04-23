@@ -1,0 +1,6 @@
+C:\Enterprise Applications\Nabors Common Libraries\NAM.Common\bin\Debug\NAM.Common.dll
+C:\Enterprise Applications\Nabors Common Libraries\NAM.Common\bin\Debug\NAM.Common.pdb
+C:\Enterprise Applications\Nabors Common Libraries\NAM.Common\obj\Debug\NAM.Common.csproj.AssemblyReference.cache
+C:\Enterprise Applications\Nabors Common Libraries\NAM.Common\obj\Debug\NAM.Common.csproj.CoreCompileInputs.cache
+C:\Enterprise Applications\Nabors Common Libraries\NAM.Common\obj\Debug\NAM.Common.dll
+C:\Enterprise Applications\Nabors Common Libraries\NAM.Common\obj\Debug\NAM.Common.pdb
